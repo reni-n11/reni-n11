@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋 My name is Reni Nikolova
 
 <!--
 **reni-n11/reni-n11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
